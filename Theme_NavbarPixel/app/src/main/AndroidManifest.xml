@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aecampos.android.theme.customdesktop.navbar.pixel">
+    <overlay android:targetPackage="com.android.systemui" android:priority="2" />
+    <application
+        android:allowBackup="false"
+        android:hasCode="false"
+        android:label="aecampos Pixel Navbar Theme" />
+
+</manifest>

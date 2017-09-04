@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.aecampos.android.theme.navbar.pixel"
+        applicationId "com.aecampos.android.theme.customdesktop.navbar.pixel"
         minSdkVersion 26
         targetSdkVersion 26
         versionCode 1

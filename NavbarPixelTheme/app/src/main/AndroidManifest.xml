@@ -1,9 +1,0 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.aecampos.android.theme.navbar.pixel">
-    <overlay android:targetPackage="com.android.systemui" />
-    <application
-        android:allowBackup="false"
-        android:hasCode="false"
-        android:label="Pixel Navbar Theme" />
-
-</manifest>

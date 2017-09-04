@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aecampos.android.theme.customdesktop.systemui">
+    <overlay android:targetPackage="com.android.systemui" android:priority="1"/>
+    <application
+        android:allowBackup="false"
+        android:hasCode="false"
+        android:label="aecampos Custom SystemUI Theme" />
+
+</manifest>
